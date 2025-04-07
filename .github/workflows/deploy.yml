@@ -1,18 +1,19 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy to GitHub Pages (User Page)
 
 on:
   push:
     branches:
-      - main
+      - source
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: Checkout source branch
         uses: actions/checkout@v3
 
-      - name: Setup Node
+      - name: Set up Node
         uses: actions/setup-node@v3
         with:
           node-version: '16'
@@ -20,11 +21,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build Vue app
+      - name: Build project
         run: npm run build
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to main (GitHub Pages root)
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          publish_branch: main
+          force_orphan: true
