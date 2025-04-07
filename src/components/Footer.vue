@@ -1,9 +1,9 @@
 <template>
   <div class="container-fluid">
     <div class="container">
-      <social-media/>
       <p>{{ msg }}</p>
-      <p>{{ appVersion }}</p>
+      <!-- <p>{{ appVersion }}</p> -->
+      <small>Site traffic analyzed via Cloudflare Web Analytics.</small>
     </div>
   </div>
 </template>
