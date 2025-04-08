@@ -30,7 +30,7 @@
         />
         <teaching-card 
           university="University of Antwerp"
-          role="Master thesis (co)supervision" 
+          role="Master Thesis Supervision" 
           date="2022-2025"
           id="5"
         />

@@ -14,11 +14,9 @@ docker run -p 8080:80 cv-app
 
 ## Development
 
-Clone and install dependencies
+Install dependencies
 
 ```bash
-git clone git@github.com:alexberndt/cv.git
-cd cv
 yarn install
 ```
 

@@ -14,6 +14,17 @@
           <span v-else>{{ co_author }}</span>
         </p>
 
+        <!-- presented at -->
+        <p v-if="present" class="meta-paragraph present-text">
+          Presented at: 
+          <span>{{ present }}</span>
+        </p>
+
+        <!-- award -->
+        <p v-if="award" class="meta-paragraph award-text">
+          <span>{{ award }}</span>
+        </p>
+
         <!-- abstract + link line -->
         <div class="resource-links">
           <span class="action-link abstract-toggle" @click="toggleExpand">
@@ -25,12 +36,12 @@
             <a :href="formattedLink" target="_blank" rel="noopener noreferrer" class="action-link">Working Paper</a>
           </template>
           <template v-else>
-            <span class="action-link disabled">Draft Soon</span>
+            <span class="action-link disabled"> {{draft}} </span>
           </template>
         </div>
 
         <!-- abstract content -->
-        <div class="abstract-text" :class="{ expanded: expanded }">
+        <div class="abstract-text mb-2" :class="{ expanded: expanded }">
           {{ abstract }}
         </div>
 
@@ -49,10 +60,13 @@ export default {
   props: {
     name: { type: String, required: true },
     abstract: { type: String, required: true },
+    present: String,
+    award: String,
     status: String,
     co_author: String,
     co_author_link: String,
-    link: String
+    link: String,
+    draft: String,
   },
   data() {
     return {
@@ -88,6 +102,22 @@ a:hover {
 
 .card-body {
   text-align: left;
+}
+
+.meta-paragraph {
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.present-text {
+  text-align: left;
+  font-style: italic;
+}
+
+.award-text {
+  text-align: left;
+  font-style: italic;
+  font-weight: bold;
 }
 
 .resource-links {

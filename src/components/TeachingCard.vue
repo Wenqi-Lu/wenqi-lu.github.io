@@ -21,7 +21,7 @@
 
             <!-- professor -->
             <div>
-              <small v-if="professor" class="card-text">TA of Prof. {{ professor }}</small>
+              <small v-if="professor" class="card-text">TA for Prof. {{ professor }}</small>
             </div>
           </div>
         </div>

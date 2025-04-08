@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <p>
-      I’m a joint PhD candidate in Economics at the University of Antwerp and Université Libre de Bruxelles.
+      I’m a joint PhD candidate in Economics at the University of Antwerp and Université libre de Bruxelles.
       My research interests lie in <strong>family economics, labor economics and revealed preference theory</strong>.
     </p>
     <p>
@@ -13,7 +13,7 @@
     </p>
     <p>
       Find out more through my CV
-      <a href="/cv/cv.pdf" download class="cv-link">
+      <a href="/cv/cv.pdf" target="_blank" rel="noopener noreferrer" class="cv-link">
         here
         <fa :icon="['fas', 'file-pdf']" class="fa-sm" style="margin-left: 0.3em;" />
       </a>

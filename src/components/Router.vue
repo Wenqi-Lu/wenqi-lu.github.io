@@ -23,6 +23,7 @@ export default {
   a {
     font-weight: bold;
     color: var(--text-navbar); 
+    font-size: 1.2rem;
     &.router-link-exact-active {
       color: var(--text-navbar-highlight); 
     }
