@@ -6,7 +6,7 @@
 
     <wip-card name="The Cost of Inequality: Home Production, Gender Roles, and Fertility in Japan"
       draft="Draft Soon"
-      present="ECARES Internal Seminar 2025 (scheduled), UAntwerpen Internal Seminar 2025, ECARES Christmas Workshop 2024"
+      present="ECARES Internal Seminar 2025, UAntwerpen Internal Seminar 2025, ECARES Christmas Workshop 2024"
       abstract="Japan was among the first countries to encounter ultra-low fertility, despite generous leave policies. Rigid gender-based labor specialization persists: women take on most unpaid domestic work after childbirth, while men remain focused on market work. This division creates a large gender gap in labor and resource sharing, discouraging fertility especially among progressive women. Japan’s overwork culture and persistent gender norms sustain this imbalance. This study explores how unequal domestic labor affects fertility decisions and how improved work-life balance and shifting norms may change fertility intentions." />
 
     <wip-card name="Time or Money? Togetherness and Intrahousehold Allocation"
