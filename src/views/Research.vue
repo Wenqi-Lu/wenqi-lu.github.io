@@ -27,7 +27,7 @@
       co_author="Sam Cosaert"
       co_author_link="https://sites.google.com/site/samlcosaert/home"
       draft="Draft available upon request"
-      present="Meeting of the Society of Economics of the Household 2025 (scheduled), Household Economics Workshop 2023"
+      present="Meeting of the Society of Economics of the Household 2025, Household Economics Workshop 2023"
       abstract="We examine the interhousehold heterogeneity in spousal allocations using a collective model where household members have distributional preferences over consumption, time away from work, and leisure. Most households exhibit spousal preference alignment in some domains but not in others, indicating narrow equity considerations. We then assess how many distributional preference types are needed to explain observed intra-household allocations. The presence of children emerges as the primary factor behind this heterogeneity. Our analysis integrates revealed preference principles with data on consumption and time use, supplemented by stated preference information from the Dutch LISS surveys." />
 
   </div>
