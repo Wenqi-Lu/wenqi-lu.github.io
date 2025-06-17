@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
 
     <!-- Favicon -->
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+    <!-- <link rel="icon" href="<%= BASE_URL %>favicon.ico" /> -->
 
     <!-- Page Title -->
     <title>Wenqi Lu | Academic Homepage</title>
@@ -31,10 +31,22 @@
     <meta name="twitter:image" content="https://wenqi-lu.github.io/open_graph_image.jpg" />
     <meta name="twitter:domain" content="wenqi-lu.github.io" />
     <meta name="twitter:url" content="https://wenqi-lu.github.io/" />
+
+    <link rel="icon" href="data:," />
   </head>
   <body>
     <noscript>
       <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <noscript>
+      <article>
+        <h1>Wenqi Lu | Academic Homepage</h1>
+        <p>
+          Welcome to Wenqi Lu's academic homepage. My research interests include family economics,
+          labor economics, and revealed preference theory. Learn more about my <a href="/cv">CV</a>,
+          <a href="/research">research</a>, and <a href="/teaching">teaching</a> here.
+        </p>
+      </article>
     </noscript>
     <div id="app"></div>
     <!-- Cloudflare Web Analytics -->
