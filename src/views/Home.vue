@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <p>
-      I’m a joint PhD candidate in Economics at the University of Antwerp and Université libre de Bruxelles.
+      I’m a PhD candidate in Economics at the University of Antwerp and Université libre de Bruxelles.
       My research interests lie in <strong>family economics, labor economics and revealed preference theory</strong>.
     </p>
     <p>
@@ -11,6 +11,9 @@
       The primary objective is to conduct an in-depth analysis of the well-being of household members through a
       family-oriented framework.
     </p>
+    <p>
+      In 2025-6, I will base at the Aix-Marseille School of Economics on their end-of-year external PhD fellowship.
+    </p> 
     <p>
       Find out more through my CV
       <a href="/cv/cv.pdf" target="_blank" rel="noopener noreferrer" class="cv-link">
