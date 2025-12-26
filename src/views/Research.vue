@@ -4,11 +4,12 @@
 
     <h2>Work in Progress</h2>
 
-    <wip-card name="The Cost of Inequality, Gender Roles, and Fertility Decisions  - Job Market Paper"
+    <wip-card name="The Cost of Inequality, Gender Roles, and Fertility Decisions  - <small><em><strong>Job Market Paper</strong></em></small>"
       draft="Draft available upon request"
       present="AMSE Internal Seminar 2025, ECARES Internal Seminar 2025, UAntwerpen Internal Seminar 2025, ECARES Xmas Workshop 2024-5"
-      abstract="Japan was among the first countries to encounter ultra-low fertility, despite generous leave policies. Rigid gender-based labor specialization persists: women take on most unpaid domestic work after childbirth, while men remain focused on market work. This division creates a large gender gap in labor and resource sharing, discouraging fertility especially among progressive women. Japan’s overwork culture and persistent gender norms sustain this imbalance. This study explores how unequal domestic labor affects fertility decisions and how improved work-life balance and shifting norms may change fertility intentions." />
-
+      abstract="Declining fertility rates pose social and economic challenges across many countries. A key driver is the strong gender-based division of labor within households, rooted in traditional gender norms that assign primary childcare duties to women regardless their education or career prospects. This unequal division of labor lowers fertility intentions through two mechanisms—the child penalty associated with motherhood and the disutility arising from perceived unfairness in domestic work. The degree of perceived unfairness depends on spouses’ gender role attitudes and the actual gap in time devoted to domestic tasks. The paper uses Japan as the empirical setting, drawing on its experience of low fertility and its wide gender gap in paid and unpaid work. The analysis highlights two central frictions shaping fertility decisions, gender norms that conflict with progressive women’s expectations and an overwork culture that limits men’s participation in childcare, thereby widening the domestic labor gap. Using a dynamic structural model, the study quantifies the effects of the child penalty and perceived unfairness mechanisms on fertility outcomes. Counterfactual analyses show that work–life balance policies raise fertility for most households, but a narrower division of domestic labor is required to increase fertility intentions among progressive women."
+      />
+    
     <wip-card name="Time or Money? Togetherness and Intrahousehold Allocation"
       present="Meeting of the Society of Economics of the Household 2024, GRAPE External Research Seminar 2024, UAntwerpen Internal Seminar 2023, Gender Gaps Conference 2023, Belgian Day for Labour Economists 2023, UAntwerp FEB Doctoral Day 2023, Household Economics Workshop 2022"
       award="Best PhD Paper Award at the 2023 Gender Gaps Conference"

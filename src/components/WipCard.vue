@@ -3,7 +3,7 @@
     <div class="card mb-3">
       <div class="card-body">
         <!-- name: required -->
-        <h5 class="card-title mb-2">{{ name }}</h5>
+        <h5 class="card-title mb-2" v-html="name"></h5>
 
         <!-- co-author: optional, with optional link -->
         <p v-if="co_author" class="card-text">
