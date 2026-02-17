@@ -5,14 +5,19 @@
         <!-- name: required -->
         <h5 class="card-title mb-2" v-html="name"></h5>
 
-        <!-- co-author: optional, with optional link -->
-        <p v-if="co_author" class="card-text">
-          With
+        <!-- co-author + publish: optional, with optional link and publish status in same link-->
+        <div v-if="co_author" class="card-text d-flex align-items-center">
+          <span class="me-1">With</span>
+    
           <span v-if="co_author_link">
             <a :href="co_author_link" target="_blank" rel="noopener noreferrer">{{ co_author }}</a>
           </span>
           <span v-else>{{ co_author }}</span>
-        </p>
+          
+          <span v-if="publish" class="ms-2 publish-text">
+            {{ publish }}
+          </span>
+        </div>
 
         <!-- presented at -->
         <p v-if="present" class="meta-paragraph present-text">
@@ -65,6 +70,7 @@ export default {
     status: String,
     co_author: String,
     co_author_link: String,
+    publish: String,
     link: String,
     draft: String,
   },
@@ -108,6 +114,12 @@ a:hover {
   margin-bottom: 0.5rem;
   font-size: 0.85rem;
 }
+
+.publish-text {
+  text-align: left;
+  font-weight: bold;
+}
+
 
 .present-text {
   text-align: left;

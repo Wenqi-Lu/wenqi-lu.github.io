@@ -18,8 +18,9 @@
       />
 
     <wip-card name="To Veil or Not to Veil? Assessing the Removal of Headscarf Ban in a Muslim Country"
-      co_author="Ekin Yurdakul" status="Under Review"
+      co_author="Ekin Yurdakul"
       co_author_link="https://sites.google.com/view/ekinyurdakul/home-page"
+      publish="R&R at the Journal of Economics Behavior & Organization"
       present="European Association of Labour Economists Conference 2024, European Society for Population Economics 2024"
       abstract="This paper examines how removing identity-based institutional restrictions affects women’s economic participation by exploiting the 2013 repeal of a longstanding headscarf ban in Turkey. We combine two nationally representative surveys and use statistical matching and machine-learning models to predict women’s veiling status, to identify treatment effects by comparing veiled and non-veiled women’s labor market outcomes in a difference-in-differences framework. The repeal led to a significant rise in public sector employment among veiled women, driven by both higher employment rates and shifts away from self-employment and unpaid family work. In contrast, nonveiled women experienced a decline in public sector jobs, suggesting a substitution effect, with no evidence of reduced efficiency in the public sector after the repeal. Consistent with this pattern, effects are concentrated among more educated veiled women, the group most likely to qualify for public positions. We find no differential effects across regions with high and low veiling prevalence or ruling-party vote shares, suggesting that institutional access, rather than local acceptance or political favoritism, drives the response."
       link="/publications/Turkish_new.pdf"
