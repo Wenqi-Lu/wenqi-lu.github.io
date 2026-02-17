@@ -5,7 +5,7 @@
         <!-- name: required -->
         <h5 class="card-title mb-2" v-html="name"></h5>
 
-        <!-- co-author + publish: optional, with optional link and publish status in same link-->
+        <!-- co-author + publish: optional, with optional link and publish status in same line-->
         <div v-if="co_author" class="card-text d-flex align-items-center">
           <span class="me-1">With</span>
     
@@ -13,7 +13,7 @@
             <a :href="co_author_link" target="_blank" rel="noopener noreferrer">{{ co_author }}</a>
           </span>
           <span v-else>{{ co_author }}</span>
-          
+          <span v-if="publish" class="comma">,</span>
           <span v-if="publish" class="ms-2 publish-text">
             {{ publish }}
           </span>
@@ -160,6 +160,10 @@ a:hover {
 
 .dot {
   color: var(--text-navbar);
+  margin: 0 0.3em;
+}
+
+.comma {
   margin: 0 0.3em;
 }
 
