@@ -12,8 +12,8 @@
           <span v-if="co_author_link">
             <a :href="co_author_link" target="_blank" rel="noopener noreferrer">{{ co_author }}</a>
           </span>
-          <span v-else>{{ co_author }}</span>
-          <span v-if="publish" class="comma">,</span>
+          <span v-else>{{ co_author}}</span>
+          <span v-if="publish" class="me-1">,</span>
           <span v-if="publish" class="ms-2 publish-text">
             {{ publish }}
           </span>
