@@ -5,31 +5,43 @@
         <!-- name: required -->
         <h5 class="card-title mb-2" v-html="name"></h5>
 
-        <!-- co-author + publish: optional, with optional link and publish status in same line-->
+        <!-- co-author + publish(status): optional, with optional link and publish status in same line-->
         <div v-if="co_author" class="card-text d-flex align-items-center flex-wrap" style="column-gap: 0.4rem; row-gap: 0.2rem;">
           <span class="d-inline-flex align-items-center">
             <span class="me-1">With</span>
             <span v-if="co_author_link">
-              <a :href="co_author_link" target="_blank" rel="noopener noreferrer">{{ co_author }}</a>
+              <a :href="co_author_link" target="_blank" rel="noopener noreferrer">
+                {{ co_author }}
+              </a>
             </span>
-            <span v-else>{{ co_author }}</span>
-            <!-- <span v-if="publish">,</span> -->
+            <span v-else>
+              {{ co_author }}
+            </span>
           </span>
 
           <span v-if="publish" class="publish-text">
             {{ publish }}
           </span>
+
+          <span v-if="status" class="text-muted fst-italic mb-0">
+            {{ status }}
+          </span>
+
         </div>
 
         <!-- presented at -->
         <p v-if="present" class="meta-paragraph present-text">
           Presented at: 
-          <span>{{ present }}</span>
+          <span>
+            {{ present }}
+          </span>
         </p>
 
         <!-- award -->
         <p v-if="award" class="meta-paragraph award-text">
-          <span>{{ award }}</span>
+          <span>
+            {{ award }}
+          </span>
         </p>
 
         <!-- abstract + link line -->
@@ -43,7 +55,9 @@
             <a :href="formattedLink" target="_blank" rel="noopener noreferrer" class="action-link">Working Paper</a>
           </template>
           <template v-else>
-            <span class="action-link disabled"> {{draft}} </span>
+            <span class="action-link disabled"> 
+              {{draft}}
+            </span>
           </template>
         </div>
 
@@ -51,11 +65,7 @@
         <div class="abstract-text mb-2" :class="{ expanded: expanded }">
           {{ abstract }}
         </div>
-
-        <!-- status: optional -->
-        <p v-if="status" class="card-subtitle mb-2 text-muted">
-          {{ status }}
-        </p>
+      
       </div>
     </div>
   </div>
