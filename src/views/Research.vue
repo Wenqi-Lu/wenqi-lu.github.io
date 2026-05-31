@@ -16,7 +16,7 @@
       publish="R&R at the Journal of Economics Behavior & Organization"
       present="European Association of Labour Economists Conference 2024, European Society for Population Economics 2024"
       abstract="This paper examines how removing identity-based institutional restrictions affects women’s economic participation by exploiting the 2013 repeal of a longstanding headscarf ban in Turkey. We combine two nationally representative surveys and use statistical matching and machine-learning models to predict women’s veiling status and identify treatment effects by comparing veiled and non-veiled women’s labor market outcomes in a difference-in-differences framework. The repeal led to a significant rise in public sector employment among veiled women, driven by both higher employment rates and shifts away from self-employment and unpaid family work. In contrast, nonveiled women experienced a decline in public sector jobs, suggesting a substitution effect, with suggestive evidence of some increase in education–occupation mismatch among veiled women in the public sector after the repeal. Consistent with this pattern, effects are concentrated among more educated veiled women, the group most likely to qualify for public positions. We find no differential effects across regions with high and low veiling prevalence or local Islamist-party vote shares, suggesting that institutional access, rather than local acceptance or political favoritism, drives women’s labor market response to the reform."
-      link="/publications/Turkish.pdf"
+      link="/publications/VeilingPaper.pdf"
       />
     
     <wip-card name="Narrow Distributional Concerns in Households: How Common Are They?"
