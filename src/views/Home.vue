@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <p>
-      I’m a PhD candidate in Economics at the University of Antwerp and ECARES of Université libre de Bruxelles.
+      I’m a PhD candidate in Economics at the University of Antwerp and Université Libre de Bruxelles, ECARES.
       My research interests lie in <strong>family economics, labor economics and revealed preference theory</strong>.
     </p>
     <p>
