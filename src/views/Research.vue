@@ -6,7 +6,7 @@
 
     <wip-card name="The Cost of Inequality, Gender Roles, and Fertility Decisions  - <small><em><strong>Job Market Paper</strong></em></small>"
       draft="Draft available upon request"
-      present="Meeting of the Society of Economics of the Household 2026, CREST PhD Seminar, AMSE Internal Seminar 2025, ECARES Internal Seminar 2025, UAntwerpen Internal Seminar 2025, ECARES Xmas Workshop 2024-5"
+      present="31st ENTER Jamboree 2026, Meeting of the Society of Economics of the Household 2026, CREST PhD Seminar, AMSE Internal Seminar 2025, ECARES Internal Seminar 2025, UAntwerpen Internal Seminar 2025, ECARES Xmas Workshop 2024-5"
       award="Best Junior Paper Award at the 2026 SEHO Conference"
       abstract="Falling fertility rates pose social and economic challenges in many countries. One central factor is the gender-based division of labor within households, where women shoulder primary childcare duties regardless of their labor market opportunities, while men remain the main earners and contribute less to domestic work. This inequality lowers fertility intentions through the child penalty and women's perceived unfairness in gender roles. Using Japan as an example, I develop a dynamic structural model to analyze how gender views and overwork culture interact with this inequality and shape fertility decision. The findings indicate that despite work-life-balance policies can promote father's involvement in childcare, a more equitable allocation of domestic labor is necessary to raise fertility intentions, particularly among women with progressive gender views."
       />
