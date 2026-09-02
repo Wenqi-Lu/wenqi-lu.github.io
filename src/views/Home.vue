@@ -12,9 +12,6 @@
       family-oriented framework.
     </p>
     <p>
-      In 2025-6, I will base at the Aix-Marseille School of Economics on their end-of-year external PhD fellowship.
-    </p> 
-    <p>
       Find out more through my CV
       <a href="/cv/cv.pdf" target="_blank" rel="noopener noreferrer" class="cv-link">
         here

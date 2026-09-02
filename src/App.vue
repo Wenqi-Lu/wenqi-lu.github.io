@@ -1,10 +1,12 @@
 <template>
-  <VideoHeader msg="Wenqi Lu" id="video-header" />
-  <ProfilePicture />
-  <Contacts class="container social-media" />
-  <Router class="container router" />
-  <router-view class="container content" />
-  <Footer msg="© 2025 by Wenqi Lu" :appVersion="appVersion" />
+  <div id="app" class="page-wrapper">
+    <VideoHeader msg="Wenqi Lu" id="video-header" />
+    <ProfilePicture />
+    <Contacts class="container social-media" />
+    <Router class="container router" />
+    <router-view class="container content" />
+    <Footer msg="© 2025 by Wenqi Lu" :appVersion="appVersion" />
+  </div>
 </template>
 
 <script>
@@ -50,12 +52,18 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  z-index: -1;
+  z-index: 0;
+}
+
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .content {
   -webkit-overflow-scrolling: touch;
-  flex: auto;
+  flex: 1 0 auto;
   padding-top: 5px;
   padding-bottom: 75px;
 }

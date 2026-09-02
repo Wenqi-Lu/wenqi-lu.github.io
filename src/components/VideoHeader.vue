@@ -1,11 +1,10 @@
 <template>
-    <video-background 
-        :src="require(`@/assets/beach_red.mp4`)"
-        :poster="require(`@/assets/static.jpg`)"
-        style="max-height: 260px; height: 100vh;"
-        overlay="linear-gradient(90deg,#00000050,#00000050)"
-        id="video" 
-        class="container">
+    <video-background
+      :src="require(`@/assets/beach_red.mp4`)"
+      :poster="require(`@/assets/static.jpg`)"
+      overlay="linear-gradient(90deg,#00000050,#00000050)"
+      id="video"
+      class="video-bg container">
         <h1 id="heading">{{ msg }}</h1>
     </video-background>
 </template>
@@ -29,6 +28,19 @@ export default {
 .container {
     max-width: 100%;
     padding: 0px;
+}
+
+.video-bg {
+  height: 260px;
+  max-height: 40vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+::v-deep #video video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 #heading {
