@@ -6,7 +6,7 @@
 
     <wip-card name="The Cost of Inequality, Gender Roles, and Fertility Decisions  - <small><em><strong>Job Market Paper</strong></em></small>"
       draft="Draft available upon request"
-      present="2026 EEA-ESEM, 31st ENTER Jamboree 2026, Meeting of the Society of Economics of the Household 2026, CREST PhD Seminar, AMSE Internal Seminar 2025, ECARES Internal Seminar 2025, UAntwerpen Internal Seminar 2025, ECARES Xmas Workshop 2024-5"
+      present="2026 EALE, 2026 EEA-ESEM, 31st ENTER Jamboree 2026, 2026 Meeting of the Society of Economics of the Household, 2026 CREST PhD Seminar, 2025 AMSE Internal Seminar, 2025 ECARES Internal Seminar, 2025 UAntwerpen Internal Seminar, 2024 2025 ECARES Xmas Workshop"
       award="Best Junior Paper Award at the 2026 SEHO Conference, ESEM Best Applied Paper by Young Researchers at 2026 EEA-ESEM"
       abstract="Falling fertility rates pose social and economic challenges in many countries. One central factor is the gender-based division of labor within households, where women shoulder primary childcare duties regardless of their labor market opportunities, while men remain the main earners and contribute less to domestic work. This inequality lowers fertility intentions through the child penalty and women's perceived unfairness in gender roles. Using Japan as an example, I develop a dynamic structural model to analyze how gender views and overwork culture interact with this inequality and shape fertility decision. The findings indicate that despite work-life-balance policies can promote father's involvement in childcare, a more equitable allocation of domestic labor is necessary to raise fertility intentions, particularly among women with progressive gender views."
       />
@@ -15,7 +15,7 @@
       co_author="Ekin Yurdakul"
       co_author_link="https://sites.google.com/view/ekinyurdakul/home-page"
       publish="R&R at the Journal of Economics Behavior & Organization"
-      present="European Association of Labour Economists Conference 2024, European Society for Population Economics 2024"
+      present="2024 European Association of Labour Economists Conference, 2024 European Society for Population Economics"
       abstract="This paper examines how removing identity-based institutional restrictions affects women’s economic participation by exploiting the 2013 repeal of a longstanding headscarf ban in Turkey. We combine two nationally representative surveys and use statistical matching and machine-learning models to predict women’s veiling status and identify treatment effects by comparing veiled and non-veiled women’s labor market outcomes in a difference-in-differences framework. The repeal led to a significant rise in public sector employment among veiled women, driven by both higher employment rates and shifts away from self-employment and unpaid family work. In contrast, nonveiled women experienced a decline in public sector jobs, suggesting a substitution effect, with suggestive evidence of some increase in education–occupation mismatch among veiled women in the public sector after the repeal. Consistent with this pattern, effects are concentrated among more educated veiled women, the group most likely to qualify for public positions. We find no differential effects across regions with high and low veiling prevalence or local Islamist-party vote shares, suggesting that institutional access, rather than local acceptance or political favoritism, drives women’s labor market response to the reform."
       link="/publications/VeilingPaper.pdf"
       />
@@ -24,13 +24,13 @@
       co_author="Sam Cosaert"
       co_author_link="https://sites.google.com/site/samlcosaert/home"
       status="Submitted"
-      present="Meeting of the Society of Economics of the Household 2025, Household Economics Workshop 2023"
+      present="2024 Meeting of the Society of Economics of the Household, 2023 Household Economics Workshop"
       abstract="This paper examines how money and time are allocated between spouses. Using evidence from Dutch couples, we show that within-household allocations and spousal preference alignment vary substantially across consumption, labor, and other time use decisions, with the strongest alignment in the labor domain. We propose an extended collective model that allows distributional preferences and preference alignment to hold narrowly within specific domains. Our structural nonparametric analysis then tests the homogeneity of household distributional concerns and links it with observable household characteristics, within each domain. Children and gender attitudes emerge as the key determinants of distributional concerns in time domains."
       link="/publications/Narrow_Distributions_Households.pdf"
       />
     
     <wip-card name="Time or Money? Togetherness and Intrahousehold Allocation"
-      present="Meeting of the Society of Economics of the Household 2024, GRAPE External Research Seminar 2024, UAntwerpen Internal Seminar 2023, Gender Gaps Conference 2023, Belgian Day for Labour Economists 2023, UAntwerp FEB Doctoral Day 2023, Household Economics Workshop 2022"
+      present="2024 Meeting of the Society of Economics of the Household, 2024 GRAPE External Research Seminar, 2023 UAntwerpen Internal Seminar, 2023 Gender Gaps Conference, 2023 Belgian Day for Labour Economists, 2023 UAntwerp FEB Doctoral Day, 2022 Household Economics Workshop"
       award="Best PhD Paper Award at the 2023 Gender Gaps Conference"
       abstract="Joint experience between partners, or togetherness, are key benefits of marriage. Despite the importance, the allocation tradeoffs between togetherness and other household activities, and its relation to gender differences, remains limited understood. This paper captures time use and consumption allocation between spouses, with a particular focus on togetherness. The study shows that women place higher value on home-production, while men hold more bargaining power. This study also reveals a substitutable role between joint leisure time and expenditure. These patterns help explain the gender gap in time use and consumption within families."
       link="/publications/Togetherness_Full_Draft.pdf"
