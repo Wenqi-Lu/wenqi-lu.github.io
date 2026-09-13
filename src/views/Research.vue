@@ -4,7 +4,7 @@
 
     <h2>Work in Progress</h2>
 
-    <wip-card name="The Cost of Inequality: Home Production, Gender Roles, and Fertility Decision  - <small><em><strong>Job Market Paper</strong></em></small>"
+    <wip-card name="The Cost of Inequality: Home Production, Gender Roles, and Fertility Decisions  - <small><em><strong>Job Market Paper</strong></em></small>"
       draft="Draft available upon request"
       present="2026 EALE, 2026 EEA-ESEM, 31st ENTER Jamboree 2026, 2026 Meeting of the Society of Economics of the Household, 2026 CREST PhD Seminar, 2025 AMSE Internal Seminar, 2025 ECARES Internal Seminar, 2025 UAntwerpen Internal Seminar, 2024 2025 ECARES Xmas Workshop"
       award="Best Junior Paper Award at 2026 SEHO Conference, ESEM Best Applied Paper by Young Researchers at 2026 EEA-ESEM"

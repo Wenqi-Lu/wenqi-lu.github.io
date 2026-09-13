@@ -1,13 +1,10 @@
 <template>
   <div class="social-media">
-    <!-- <a class="social-media" href="">
+    <!-- <a class="social-media" href="https://www.linkedin.com/in/wenqi-lu-wendy" target="_blank" rel="noopener noreferrer">
       <fa :icon="['fab', 'linkedin']" class="fa-lg"/>
-    </a> -->
-    <!-- <a class="social-media" href="">
-      <fa :icon="['fab', 'github']" class="fa-lg"/>
     </a>
-    <a class="social-media" href="">
-      <fa :icon="['fab', 'instagram']" class="fa-lg"/>
+    <a class="social-media" href="https://x.com/WenqiLu77" target="_blank" rel="noopener noreferrer">
+      <fa :icon="['fab', 'twitter']" class="fa-lg"/>
     </a> -->
     <a class="social-media" href="mailto:wenqi.lu@ulb.be">
       <fa :icon="['fas', 'envelope']" class="fa-lg" style="margin-right: 0.5em;" />
