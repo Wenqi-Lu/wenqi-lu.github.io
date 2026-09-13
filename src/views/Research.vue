@@ -4,17 +4,17 @@
 
     <h2>Work in Progress</h2>
 
-    <wip-card name="The Cost of Inequality, Gender Roles, and Fertility Decisions  - <small><em><strong>Job Market Paper</strong></em></small>"
+    <wip-card name="The Cost of Inequality: Home Production, Gender Roles, and Fertility Decision  - <small><em><strong>Job Market Paper</strong></em></small>"
       draft="Draft available upon request"
       present="2026 EALE, 2026 EEA-ESEM, 31st ENTER Jamboree 2026, 2026 Meeting of the Society of Economics of the Household, 2026 CREST PhD Seminar, 2025 AMSE Internal Seminar, 2025 ECARES Internal Seminar, 2025 UAntwerpen Internal Seminar, 2024 2025 ECARES Xmas Workshop"
-      award="Best Junior Paper Award at the 2026 SEHO Conference, ESEM Best Applied Paper by Young Researchers at 2026 EEA-ESEM"
+      award="Best Junior Paper Award at 2026 SEHO Conference, ESEM Best Applied Paper by Young Researchers at 2026 EEA-ESEM"
       abstract="Falling fertility rates pose social and economic challenges in many countries. One central factor is the gender-based division of labor within households, where women shoulder primary childcare duties regardless of their labor market opportunities, while men remain the main earners and contribute less to domestic work. This inequality lowers fertility intentions through the child penalty and women's perceived unfairness in gender roles. Using Japan as an example, I develop a dynamic structural model to analyze how gender views and overwork culture interact with this inequality and shape fertility decision. The findings indicate that despite work-life-balance policies can promote father's involvement in childcare, a more equitable allocation of domestic labor is necessary to raise fertility intentions, particularly among women with progressive gender views."
       />
     
     <wip-card name="To Veil or Not to Veil? Assessing the Removal of Headscarf Ban in a Muslim Country"
       co_author="Ekin Yurdakul"
       co_author_link="https://sites.google.com/view/ekinyurdakul/home-page"
-      publish="R&R at the Journal of Economics Behavior & Organization"
+      publish="R&R at the Journal of Economic Behavior & Organization"
       present="2024 European Association of Labour Economists Conference, 2024 European Society for Population Economics"
       abstract="This paper examines how removing identity-based institutional restrictions affects women’s economic participation by exploiting the 2013 repeal of a longstanding headscarf ban in Turkey. We combine two nationally representative surveys and use statistical matching and machine-learning models to predict women’s veiling status and identify treatment effects by comparing veiled and non-veiled women’s labor market outcomes in a difference-in-differences framework. The repeal led to a significant rise in public sector employment among veiled women, driven by both higher employment rates and shifts away from self-employment and unpaid family work. In contrast, nonveiled women experienced a decline in public sector jobs, suggesting a substitution effect, with suggestive evidence of some increase in education–occupation mismatch among veiled women in the public sector after the repeal. Consistent with this pattern, effects are concentrated among more educated veiled women, the group most likely to qualify for public positions. We find no differential effects across regions with high and low veiling prevalence or local Islamist-party vote shares, suggesting that institutional access, rather than local acceptance or political favoritism, drives women’s labor market response to the reform."
       link="/publications/VeilingPaper.pdf"
