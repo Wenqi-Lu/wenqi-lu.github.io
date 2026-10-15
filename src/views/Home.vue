@@ -2,10 +2,13 @@
   <div class="home">
     <p>
       I’m a PhD candidate in Economics at Université Libre de Bruxelles (ECARES) and the University of Antwerp.
-      My research focuses on <strong>family economics, labor economics and revealed preference theory</strong>.
+      My research interests cover <strong>family economics, labor economics and revealed preference theory</strong>.
     </p>
     <p>
       I use structural and applied methods to study family decision-making, with a particular focus on gender inequality. My work examines the intrahousehold allocation of time and money, fertility decisions, and women's labor market dynamics.
+    </p>
+    <p>
+      <strong>I am on the 2026–27 economics job market.</strong>
     </p>
     <p>
       Find out more through my CV
