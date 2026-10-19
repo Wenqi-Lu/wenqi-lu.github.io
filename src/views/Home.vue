@@ -11,9 +11,14 @@
       <strong>I am on the 2026–27 economics job market.</strong>
     </p>
     <p>
-      Find out more through my CV
+      Find out more through my
       <a href="/cv/Resume_WenqiLu.pdf" target="_blank" rel="noopener noreferrer" class="cv-link">
-        here
+        CV
+        <fa :icon="['fas', 'file-pdf']" class="fa-sm" style="margin-left: 0.3em;" />
+      </a>
+      and 
+      <a href="/publications/FertilityNew.pdf" target="_blank" rel="noopener noreferrer" class="cv-link">
+        Job Market Paper
         <fa :icon="['fas', 'file-pdf']" class="fa-sm" style="margin-left: 0.3em;" />
       </a>
       .
