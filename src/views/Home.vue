@@ -8,7 +8,7 @@
       I use structural and applied methods to study family decision-making, with a particular focus on gender inequality. My work examines the intrahousehold allocation of time and money, fertility decisions, and women's labor market dynamics.
     </p>
     <p>
-      <strong>I am on the 2026–27 economics job market.</strong>
+      <strong>I am on the 2026–27 job market.</strong>
     </p>
     <p>
       Find out more through my
